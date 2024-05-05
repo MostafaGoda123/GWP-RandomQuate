@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/GWP-RandomQuate/static/css/main.cba9efe7.css",
+    "main.js": "/GWP-RandomQuate/static/js/main.06ce0486.js",
+    "static/media/city.png": "/GWP-RandomQuate/static/media/city.66512aa4c316df20b752.png",
+    "index.html": "/GWP-RandomQuate/index.html",
+    "main.cba9efe7.css.map": "/GWP-RandomQuate/static/css/main.cba9efe7.css.map",
+    "main.06ce0486.js.map": "/GWP-RandomQuate/static/js/main.06ce0486.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cba9efe7.css",
+    "static/js/main.06ce0486.js"
+  ]
+}
